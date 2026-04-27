@@ -1,8 +1,7 @@
 public class Searcher {
 
-    // Binary Search: works only on sorted arrays
-    // Divides search range in half each step — O(log n)
-    public int search(int[] arr, int target) {
+
+    public int binary_search(int[] arr, int target) {
         int left = 0;
         int right = arr.length - 1;
 
