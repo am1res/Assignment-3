@@ -1,7 +1,7 @@
 # Assignment 3 — Sorting and Searching Algorithm Analysis System
 
-**Student:** [Your Name]  
-**Group:** [Your Group]  
+**Student:** Amir Saulebekov
+**Group:** BDA-2501
 **Course:** Algorithms and Data Structures  
 **Date:** April 2026
 
