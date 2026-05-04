@@ -78,13 +78,6 @@ All times measured using `System.nanoTime()` in nanoseconds (ns).
 | Large (1000) | ~1,400 |
 
 ---
-
-## D. Screenshots
-
-*(paste screenshots of program output here after running Main.java)*
-
----
-
 ## E. Analysis & Reflection
 
 ### Which sorting algorithm performed faster? Why?
